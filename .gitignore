@@ -1,0 +1,26 @@
+# Keil MDK 构建产物
+MDK-ARM/Output/
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+*.o
+*.d
+*.crf
+*.lst
+*.dep
+*.axf
+*.htm
+*.lnp
+*.iex
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
