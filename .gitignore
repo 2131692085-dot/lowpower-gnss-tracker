@@ -24,3 +24,11 @@ MDK-ARM/RTE/
 # 系统
 .DS_Store
 Thumbs.db
+**/MDK-ARM/atguigu-project-location-gps/
+**/MDK-ARM/atguigu-project-location-gateway/
+**/MDK-ARM/DebugConfig/
+**/MDK-ARM/*.uvguix.*
+**/MDK-ARM/*.uvoptx
+**/MDK-ARM/*.lst
+__pycache__/
+*.pyc
