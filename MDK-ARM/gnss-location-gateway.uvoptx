@@ -22,7 +22,7 @@
   </DaveTm>
 
   <Target>
-    <TargetName>atguigu-project-location-gateway</TargetName>
+    <TargetName>gnss-location-gateway</TargetName>
     <ToolsetNumber>0x4</ToolsetNumber>
     <ToolsetName>ARM-ADS</ToolsetName>
     <TargetOption>
